@@ -1,5 +1,5 @@
 // create an array to store premade buttons and user created buttons 
-var gifArray = ["Whale", "Shark", "Fish", "Squid"]
+var gifArray = ["Beach", "Whale", "Shark", "Fish", "Squid",]
 // create a button render function that will dynamically generate a button for every string in the array.  
 function renderButtons() {
     $("#button-container").empty();
